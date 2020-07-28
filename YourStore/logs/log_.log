@@ -1,0 +1,160 @@
+2020-06-20 15:45:18,414 +0530 [main] INFO  (AddtoCart.java:49) - Count of available item of Mac= 1
+2020-06-20 15:45:18,425 +0530 [main] INFO  (AddtoCart.java:53) - Desired product page= Mac is open
+2020-06-20 15:45:18,535 +0530 [main] INFO  (AddtoCart.java:55) - Click on ADD to Cart
+2020-06-20 15:45:20,597 +0530 [main] INFO  (AddtoCart.java:59) - Number of item= 1 item(s) 
+2020-06-20 15:45:20,597 +0530 [main] INFO  (AddtoCart.java:60) - Price=  $122.00
+2020-06-20 15:45:20,655 +0530 [main] INFO  (AddtoCart.java:65) - Phones & PDAs is displayed
+2020-06-20 15:45:22,029 +0530 [main] INFO  (AddtoCart.java:69) - Count of available item of ‘Phones & PDAs= 3
+2020-06-20 15:45:22,186 +0530 [main] INFO  (AddtoCart.java:79) - Number of Item displayed= 3
+2020-06-20 15:45:22,187 +0530 [main] INFO  (AddtoCart.java:83) - Count of available item of ‘Phones & PDAs is equal to Number of Item displayed
+2020-06-20 15:45:22,374 +0530 [main] INFO  (AddtoCart.java:93) - Click on iPhone Add to Cart Button
+2020-06-20 15:45:26,605 +0530 [main] INFO  (AddtoCart.java:103) - Cart Item Name= iPhone
+2020-06-20 15:45:26,646 +0530 [main] INFO  (AddtoCart.java:105) - Cart Item Price= $123.20
+2020-06-20 15:45:26,685 +0530 [main] INFO  (AddtoCart.java:103) - Cart Item Name= iMac
+2020-06-20 15:45:26,723 +0530 [main] INFO  (AddtoCart.java:105) - Cart Item Price= $122.00
+2020-06-20 15:45:32,956 +0530 [main] INFO  (AddtoCart.java:114) - Message Text= Success: You have modified your shopping cart!
+×
+2020-06-20 15:45:35,008 +0530 [main] INFO  (AddtoCart.java:117) - New Quantity= 
+2020-06-20 15:45:38,755 +0530 [main] INFO  (AddtoCart.java:123) - Remove Item List0
+2020-06-20 15:45:39,820 +0530 [main] INFO  (AddtoCart.java:127) - Updated Number of item= 2 item(s) 
+2020-06-20 15:45:39,820 +0530 [main] INFO  (AddtoCart.java:128) - Updated Price=  $244.00
+2020-06-20 15:50:22,372 +0530 [main] INFO  (AddtoCart.java:49) - Count of available item of Mac= 1
+2020-06-20 15:50:22,383 +0530 [main] INFO  (AddtoCart.java:53) - Desired product page= Mac is open
+2020-06-20 15:50:22,472 +0530 [main] INFO  (AddtoCart.java:55) - Click on ADD to Cart
+2020-06-20 15:50:24,527 +0530 [main] INFO  (AddtoCart.java:59) - Number of item= 1 item(s) 
+2020-06-20 15:50:24,527 +0530 [main] INFO  (AddtoCart.java:60) - Price=  $122.00
+2020-06-20 15:50:24,595 +0530 [main] INFO  (AddtoCart.java:65) - Phones & PDAs is displayed
+2020-06-20 15:50:27,291 +0530 [main] INFO  (AddtoCart.java:69) - Count of available item of ‘Phones & PDAs= 3
+2020-06-20 15:50:27,472 +0530 [main] INFO  (AddtoCart.java:79) - Number of Item displayed= 3
+2020-06-20 15:50:27,472 +0530 [main] INFO  (AddtoCart.java:83) - Count of available item of ‘Phones & PDAs is equal to Number of Item displayed
+2020-06-20 15:50:27,655 +0530 [main] INFO  (AddtoCart.java:93) - Click on iPhone Add to Cart Button
+2020-06-20 15:50:31,890 +0530 [main] INFO  (AddtoCart.java:103) - Cart Item Name= iPhone
+2020-06-20 15:50:31,932 +0530 [main] INFO  (AddtoCart.java:105) - Cart Item Price= $123.20
+2020-06-20 15:50:31,973 +0530 [main] INFO  (AddtoCart.java:103) - Cart Item Name= iMac
+2020-06-20 15:50:32,033 +0530 [main] INFO  (AddtoCart.java:105) - Cart Item Price= $122.00
+2020-06-20 15:50:38,233 +0530 [main] INFO  (AddtoCart.java:114) - Message Text= Success: You have modified your shopping cart!
+×
+2020-06-20 15:50:40,279 +0530 [main] INFO  (AddtoCart.java:117) - New Quantity= 2
+2020-06-20 15:50:44,123 +0530 [main] INFO  (AddtoCart.java:123) - Remove Item List= 0
+2020-06-20 15:50:45,186 +0530 [main] INFO  (AddtoCart.java:127) - Updated Number of item= 2 item(s) 
+2020-06-20 15:50:45,186 +0530 [main] INFO  (AddtoCart.java:128) - Updated Price=  $244.00
+2020-06-20 15:51:34,180 +0530 [main] INFO  (AddtoCart.java:49) - Count of available item of Mac= 1
+2020-06-20 15:51:34,192 +0530 [main] INFO  (AddtoCart.java:53) - Desired product page= Mac is open
+2020-06-20 15:51:34,286 +0530 [main] INFO  (AddtoCart.java:55) - Click on ADD to Cart
+2020-06-20 15:51:36,329 +0530 [main] INFO  (AddtoCart.java:59) - Number of item= 1 item(s) 
+2020-06-20 15:51:36,329 +0530 [main] INFO  (AddtoCart.java:60) - Price=  $122.00
+2020-06-20 15:51:36,423 +0530 [main] INFO  (AddtoCart.java:65) - Phones & PDAs is displayed
+2020-06-20 15:51:37,744 +0530 [main] INFO  (AddtoCart.java:69) - Count of available item of ‘Phones & PDAs= 3
+2020-06-20 15:51:37,896 +0530 [main] INFO  (AddtoCart.java:79) - Number of Item displayed= 3
+2020-06-20 15:51:37,899 +0530 [main] INFO  (AddtoCart.java:83) - Count of available item of ‘Phones & PDAs is equal to Number of Item displayed
+2020-06-20 15:51:38,084 +0530 [main] INFO  (AddtoCart.java:93) - Click on iPhone Add to Cart Button
+2020-06-20 15:51:42,308 +0530 [main] INFO  (AddtoCart.java:103) - Cart Item Name= iPhone
+2020-06-20 15:51:42,349 +0530 [main] INFO  (AddtoCart.java:105) - Cart Item Price= $123.20
+2020-06-20 15:51:42,388 +0530 [main] INFO  (AddtoCart.java:103) - Cart Item Name= iMac
+2020-06-20 15:51:42,427 +0530 [main] INFO  (AddtoCart.java:105) - Cart Item Price= $122.00
+2020-06-20 15:51:48,938 +0530 [main] INFO  (AddtoCart.java:114) - Message Text= Success: You have modified your shopping cart!
+×
+2020-06-20 15:51:50,981 +0530 [main] INFO  (AddtoCart.java:117) - New Quantity= 2
+2020-06-20 15:51:54,963 +0530 [main] INFO  (AddtoCart.java:123) - Remove Item List= 0
+2020-06-20 15:51:56,021 +0530 [main] INFO  (AddtoCart.java:127) - Updated Number of item= 2 item(s) 
+2020-06-20 15:51:56,022 +0530 [main] INFO  (AddtoCart.java:128) - Updated Price=  $244.00
+2020-07-27 16:55:07,516 +0530 [main] INFO  (AddtoCart.java:52) - Count of available item of Mac= 1
+2020-07-27 16:55:07,550 +0530 [main] INFO  (AddtoCart.java:56) - Desired product page= Mac is open
+2020-07-27 16:55:07,644 +0530 [main] INFO  (AddtoCart.java:58) - Click on ADD to Cart
+2020-07-27 16:55:09,713 +0530 [main] INFO  (AddtoCart.java:62) - Number of item= 1 item(s) 
+2020-07-27 16:55:09,714 +0530 [main] INFO  (AddtoCart.java:63) - Price=  $122.00
+2020-07-27 16:55:09,788 +0530 [main] INFO  (AddtoCart.java:68) - Phones & PDAs is displayed
+2020-07-27 16:55:11,586 +0530 [main] INFO  (AddtoCart.java:72) - Count of available item of Phones & PDAs= 3
+2020-07-27 16:55:11,759 +0530 [main] INFO  (AddtoCart.java:82) - Number of Item displayed= 3
+2020-07-27 16:55:11,760 +0530 [main] INFO  (AddtoCart.java:86) - Count of available item of Phones & PDAs is equal to Number of Item displayed
+2020-07-27 16:55:11,960 +0530 [main] INFO  (AddtoCart.java:96) - Click on iPhone Add to Cart Button
+2020-07-27 16:55:16,222 +0530 [main] INFO  (AddtoCart.java:106) - Cart Item Name= iPhone
+2020-07-27 16:55:16,264 +0530 [main] INFO  (AddtoCart.java:108) - Cart Item Price= $123.20
+2020-07-27 16:55:16,309 +0530 [main] INFO  (AddtoCart.java:106) - Cart Item Name= iMac
+2020-07-27 16:55:16,352 +0530 [main] INFO  (AddtoCart.java:108) - Cart Item Price= $122.00
+2020-07-27 16:55:24,938 +0530 [main] INFO  (AddtoCart.java:117) - Message Text= Success: You have modified your shopping cart!
+×
+2020-07-27 16:55:26,992 +0530 [main] INFO  (AddtoCart.java:120) - New Quantity= 2
+2020-07-27 16:55:30,165 +0530 [main] INFO  (AddtoCart.java:126) - Remove Item List= 1
+2020-07-27 16:55:32,463 +0530 [main] INFO  (AddtoCart.java:130) - Updated Number of item= 2 item(s) 
+2020-07-27 16:55:32,464 +0530 [main] INFO  (AddtoCart.java:131) - Updated Price=  $244.00
+2020-07-27 17:13:52,585 +0530 [main] INFO  (AddtoCart.java:53) - Count of available item of Mac= 1
+2020-07-27 17:13:52,617 +0530 [main] INFO  (AddtoCart.java:57) - Desired product page= Mac is open
+2020-07-27 17:13:52,711 +0530 [main] INFO  (AddtoCart.java:59) - Click on ADD to Cart
+2020-07-27 17:13:54,785 +0530 [main] INFO  (AddtoCart.java:63) - Number of item= 1 item(s) 
+2020-07-27 17:13:54,786 +0530 [main] INFO  (AddtoCart.java:64) - Price=  $122.00
+2020-07-27 17:13:54,864 +0530 [main] INFO  (AddtoCart.java:69) - Phones & PDAs is displayed
+2020-07-27 17:13:56,694 +0530 [main] INFO  (AddtoCart.java:73) - Count of available item of Phones & PDAs= 3
+2020-07-27 17:13:56,865 +0530 [main] INFO  (AddtoCart.java:83) - Number of Item displayed= 3
+2020-07-27 17:13:56,866 +0530 [main] INFO  (AddtoCart.java:87) - Count of available item of Phones & PDAs is equal to Number of Item displayed
+2020-07-27 17:13:57,071 +0530 [main] INFO  (AddtoCart.java:97) - Click on iPhone Add to Cart Button
+2020-07-27 17:14:01,298 +0530 [main] INFO  (AddtoCart.java:107) - Cart Item Name= iPhone
+2020-07-27 17:14:01,340 +0530 [main] INFO  (AddtoCart.java:109) - Cart Item Price= $123.20
+2020-07-27 17:14:01,384 +0530 [main] INFO  (AddtoCart.java:107) - Cart Item Name= iMac
+2020-07-27 17:14:01,426 +0530 [main] INFO  (AddtoCart.java:109) - Cart Item Price= $122.00
+2020-07-27 17:14:10,023 +0530 [main] INFO  (AddtoCart.java:118) - Message Text= Success: You have modified your shopping cart!
+×
+2020-07-27 17:14:12,082 +0530 [main] INFO  (AddtoCart.java:121) - New Quantity= 2
+2020-07-27 17:14:15,289 +0530 [main] INFO  (AddtoCart.java:127) - Remove Item List= 1
+2020-07-27 17:14:17,556 +0530 [main] INFO  (AddtoCart.java:131) - Updated Number of item= 2 item(s) 
+2020-07-27 17:14:17,556 +0530 [main] INFO  (AddtoCart.java:132) - Updated Price=  $244.00
+2020-07-27 17:16:47,724 +0530 [main] INFO  (AddtoCart.java:53) - Count of available item of Mac= 1
+2020-07-27 17:16:47,759 +0530 [main] INFO  (AddtoCart.java:57) - Desired product page= Mac is open
+2020-07-27 17:16:47,861 +0530 [main] INFO  (AddtoCart.java:59) - Click on ADD to Cart
+2020-07-27 17:16:49,927 +0530 [main] INFO  (AddtoCart.java:63) - Number of item= 1 item(s) 
+2020-07-27 17:16:49,928 +0530 [main] INFO  (AddtoCart.java:64) - Price=  $122.00
+2020-07-27 17:16:50,012 +0530 [main] INFO  (AddtoCart.java:69) - Phones & PDAs is displayed
+2020-07-27 17:16:51,784 +0530 [main] INFO  (AddtoCart.java:73) - Count of available item of Phones & PDAs= 3
+2020-07-27 17:16:51,940 +0530 [main] INFO  (AddtoCart.java:83) - Number of Item displayed= 3
+2020-07-27 17:16:51,941 +0530 [main] INFO  (AddtoCart.java:87) - Count of available item of Phones & PDAs is equal to Number of Item displayed
+2020-07-27 17:16:52,157 +0530 [main] INFO  (AddtoCart.java:97) - Click on iPhone Add to Cart Button
+2020-07-27 17:16:56,411 +0530 [main] INFO  (AddtoCart.java:107) - Cart Item Name= iPhone
+2020-07-27 17:16:56,456 +0530 [main] INFO  (AddtoCart.java:109) - Cart Item Price= $123.20
+2020-07-27 17:16:56,502 +0530 [main] INFO  (AddtoCart.java:107) - Cart Item Name= iMac
+2020-07-27 17:16:56,544 +0530 [main] INFO  (AddtoCart.java:109) - Cart Item Price= $122.00
+2020-07-27 17:17:05,177 +0530 [main] INFO  (AddtoCart.java:118) - Message Text= Success: You have modified your shopping cart!
+×
+2020-07-27 17:17:07,223 +0530 [main] INFO  (AddtoCart.java:121) - New Quantity= 2
+2020-07-27 17:17:10,395 +0530 [main] INFO  (AddtoCart.java:127) - Remove Item List= 1
+2020-07-27 17:17:12,426 +0530 [main] INFO  (AddtoCart.java:131) - Updated Number of item= 2 item(s) 
+2020-07-27 17:17:12,427 +0530 [main] INFO  (AddtoCart.java:132) - Updated Price=  $244.00
+2020-07-27 17:23:27,825 +0530 [main] INFO  (AddtoCart.java:53) - Count of available item of Mac= 1
+2020-07-27 17:23:27,836 +0530 [main] INFO  (AddtoCart.java:57) - Desired product page= Mac is open
+2020-07-27 17:23:27,931 +0530 [main] INFO  (AddtoCart.java:59) - Click on ADD to Cart
+2020-07-27 17:23:30,005 +0530 [main] INFO  (AddtoCart.java:63) - Number of item= 1 item(s) 
+2020-07-27 17:23:30,006 +0530 [main] INFO  (AddtoCart.java:64) - Price=  $122.00
+2020-07-27 17:23:30,082 +0530 [main] INFO  (AddtoCart.java:69) - Phones & PDAs is displayed
+2020-07-27 17:23:31,967 +0530 [main] INFO  (AddtoCart.java:73) - Count of available item of Phones & PDAs= 3
+2020-07-27 17:23:32,128 +0530 [main] INFO  (AddtoCart.java:83) - Number of Item displayed= 3
+2020-07-27 17:23:32,128 +0530 [main] INFO  (AddtoCart.java:87) - Count of available item of Phones & PDAs is equal to Number of Item displayed
+2020-07-27 17:23:32,336 +0530 [main] INFO  (AddtoCart.java:97) - Click on iPhone Add to Cart Button
+2020-07-27 17:23:36,608 +0530 [main] INFO  (AddtoCart.java:107) - Cart Item Name= iPhone
+2020-07-27 17:23:36,652 +0530 [main] INFO  (AddtoCart.java:109) - Cart Item Price= $123.20
+2020-07-27 17:23:36,697 +0530 [main] INFO  (AddtoCart.java:107) - Cart Item Name= iMac
+2020-07-27 17:23:36,744 +0530 [main] INFO  (AddtoCart.java:109) - Cart Item Price= $122.00
+2020-07-27 17:23:45,595 +0530 [main] INFO  (AddtoCart.java:118) - Message Text= Success: You have modified your shopping cart!
+×
+2020-07-27 17:23:47,634 +0530 [main] INFO  (AddtoCart.java:121) - New Quantity= 2
+2020-07-27 17:23:50,800 +0530 [main] INFO  (AddtoCart.java:127) - Remove Item List= 1
+2020-07-27 17:23:52,883 +0530 [main] INFO  (AddtoCart.java:131) - Updated Number of item= 2 item(s) 
+2020-07-27 17:23:52,884 +0530 [main] INFO  (AddtoCart.java:132) - Updated Price=  $244.00
+2020-07-27 17:29:57,529 +0530 [main] INFO  (AddtoCart.java:49) - Count of available item of Mac= 1
+2020-07-27 17:29:57,542 +0530 [main] INFO  (AddtoCart.java:53) - Desired product page= Mac is open
+2020-07-27 17:29:57,643 +0530 [main] INFO  (AddtoCart.java:55) - Click on ADD to Cart
+2020-07-27 17:29:59,690 +0530 [main] INFO  (AddtoCart.java:59) - Number of item= 1 item(s) 
+2020-07-27 17:29:59,691 +0530 [main] INFO  (AddtoCart.java:60) - Price=  $122.00
+2020-07-27 17:29:59,765 +0530 [main] INFO  (AddtoCart.java:65) - Phones & PDAs is displayed
+2020-07-27 17:30:01,051 +0530 [main] INFO  (AddtoCart.java:69) - Count of available item of Phones & PDAs= 3
+2020-07-27 17:30:01,238 +0530 [main] INFO  (AddtoCart.java:79) - Number of Item displayed= 3
+2020-07-27 17:30:01,239 +0530 [main] INFO  (AddtoCart.java:83) - Count of available item of Phones & PDAs is equal to Number of Item displayed
+2020-07-27 17:30:01,473 +0530 [main] INFO  (AddtoCart.java:93) - Click on iPhone Add to Cart Button
+2020-07-27 17:30:05,719 +0530 [main] INFO  (AddtoCart.java:103) - Cart Item Name= iPhone
+2020-07-27 17:30:05,762 +0530 [main] INFO  (AddtoCart.java:105) - Cart Item Price= $123.20
+2020-07-27 17:30:05,812 +0530 [main] INFO  (AddtoCart.java:103) - Cart Item Name= iMac
+2020-07-27 17:30:05,856 +0530 [main] INFO  (AddtoCart.java:105) - Cart Item Price= $122.00
+2020-07-27 17:30:12,544 +0530 [main] INFO  (AddtoCart.java:114) - Message Text= Success: You have modified your shopping cart!
+×
+2020-07-27 17:30:14,595 +0530 [main] INFO  (AddtoCart.java:117) - New Quantity= 2
+2020-07-27 17:30:18,517 +0530 [main] INFO  (AddtoCart.java:123) - Remove Item List= 0
+2020-07-27 17:30:19,571 +0530 [main] INFO  (AddtoCart.java:127) - Updated Number of item= 2 item(s) 
+2020-07-27 17:30:19,571 +0530 [main] INFO  (AddtoCart.java:128) - Updated Price=  $244.00
